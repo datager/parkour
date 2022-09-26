@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">夏天热吗？</string>
+    <string name="true_button">正确</string>
+    <string name="false_button">错误</string>
+    <string name="correct_toast">您说的对！</string>
+    <string name="incorrect_toast">您说错了！</string>
+    <string name="next_button">下一题</string>
+    <string name="question_australia">1. Canberra is the capital of Australia.</string>
+    <string name="question_oceans">2. The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">3. The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+    <string name="question_africa">4. The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">5. The Amazon River is the longest river in the Americas.</string>
+    <string name="question_asia">6. Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <string name="prev_button">上一题</string>
+    <string name="warning_text">您确定要这样吗?</string>
+    <string name="show_answer_button">查看答案</string>
+    <string name="cheat_button">让我看一眼答案吧!</string>
+    <string name="judgment_toast">你作弊了，被我发现了，下次不要这样了啊！</string>
+</resources>

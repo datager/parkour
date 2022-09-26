@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">请输入犯罪标题</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">详情</string>
+    <string name="crime_solved_label">已解决</string>
+    <string name="crime_title">标题</string>
+    <string name="crime_date">日期</string>
+    <string name="todo">TODO</string>
+    <string name="call_110">拨打 110</string>
+    <string name="todo_police_image_view">TODO</string>
+    <string name="date_picker_title">11:56:00</string>
+    <string name="new_crime">添加罪犯</string>
+    <string name="no_crime_list_please_add_some">没数据了，请添加几个</string>
+    <string name="add_crime">添加一个 Crime</string>
+    <string name="crime_suspect_text">选择嫌疑人</string>
+    <string name="crime_report_text">发送犯罪记录</string>
+    <string name="crime_report">%1$s! 罪犯在 %2$s. %3$s, and %4$s 发现</string>
+    <string name="crime_report_solved">案件已经解决</string>
+    <string name="crime_report_unsolved">案件仍未解决</string>
+    <string name="crime_report_no_suspect">没有犯罪嫌疑人</string>
+    <string name="crime_report_suspect">犯罪嫌疑人是 %s.</string>
+    <string name="crime_report_subject">犯罪记录报告</string>
+    <string name="send_report">发送犯罪记录报告</string>
+    <string name="call_suspect">拨打电话</string>
+</resources>
