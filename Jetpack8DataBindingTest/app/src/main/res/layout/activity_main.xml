@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="simpleTextViewButtonClicked"
+        android:textAllCaps="false"
+        android:text="SimpleTextViewActivity"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="EventHandleButtonClicked"
+        android:textAllCaps="false"
+        android:text="EventHandleActivity"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="IncludeLayoutButtonClicked"
+        android:textAllCaps="false"
+        android:text="IncludeLayoutActivity"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="BindingAdapterButtonClicked"
+        android:textAllCaps="false"
+        android:text="BindingAdapterActivity"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="TwoWayBindingButtonClicked"
+        android:textAllCaps="false"
+        android:text="TwoWayBindingActivity"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="RecyclerViewButtonClicked"
+        android:textAllCaps="false"
+        android:text="RecyclerViewActivity"/>
+
+</LinearLayout>

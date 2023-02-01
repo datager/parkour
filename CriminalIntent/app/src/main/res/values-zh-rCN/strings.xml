@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">crime简短描述</string>
+    <string name="crime_title_label">标题</string>
+    <string name="crime_details_label">明细</string>
+    <string name="crime_solved_label">是否解决</string>
+    <string name="new_crime">新增crime记录</string>
+    <string name="crime_suspect_text">嫌疑人联系方式</string>
+    <string name="crime_report_text">抗议或投诉</string>
+    <string name="crime_report">%1$s!crime发生于 %2$s. %3$s, y%4$s</string>
+    <string name="crime_report_solved">问题已解决</string>
+    <string name="crime_report_unsolved">问题未解决</string>
+    <string name="crime_report_no_suspect">没找到嫌疑人</string>
+    <string name="crime_report_suspect">嫌疑人是 %s</string>
+    <string name="crime_report_subject">crime处理情况报告</string>
+    <string name="send_report">投诉方式</string>
+</resources>
